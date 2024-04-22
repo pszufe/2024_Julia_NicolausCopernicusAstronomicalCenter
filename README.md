@@ -1,9 +1,14 @@
 
 # Introduction to Julia,
 
+**Date**: April 25th, 2024
+
 **Location**:
-	Nicolaus Copernicus Astronomical Center 
- 	Bartycka 18, 00-716 Warszawa, Poland
+	Nicolaus Copernicus Astronomical Center<br>
+ 	Bartycka 18<br>
+  	00-716 Warszawa<br> 
+   	Poland
+    
 		
 The installation instructions can be found <a href="1_Basics/">Here!</a><br>.
 
