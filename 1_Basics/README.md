@@ -1,9 +1,9 @@
-# Introduction to Julia
+# Julia installation instructions
 
 Przemysław Szufel
 
 
-Materials:
+Introductory materials:
 - Jupyter notebook: [01_Basics.ipynb](01_Basics.ipynb)
 - Slides: [Julia_intro_Brussels_2024.pptx](Julia_intro_Brussels_2024.pptx)
 
