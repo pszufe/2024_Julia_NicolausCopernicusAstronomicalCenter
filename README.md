@@ -10,7 +10,7 @@
    	Poland
     
 		
-The installation instructions can be found <a href="1_Basics/">Here!</a><br>.
+The installation instructions can be found <a href="1_Basics/">Here!</a>.
 
 
 Data analysis has become one of the core processes in virtually any professional activity. The collection of data becomes easier and less expensive, so we have ample access to it.
