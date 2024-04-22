@@ -25,7 +25,7 @@ Julia is a new Open Source language designed for science and data analysis. With
 
     2. Change the directory to where `Project.toml` and `Manifest.toml` files are located
         ```
-        cd "2024_Julia_EC_EconomicDepShort"
+        cd "2024_Julia_NicolausCopernicusAstronomicalCenter"
         ```
     3. Run the Julia console or in the command line (run command **julia** in the project folder). Once Julia interpreter is running paste the following Julia code:
         ```
