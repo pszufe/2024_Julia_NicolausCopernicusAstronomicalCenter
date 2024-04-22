@@ -1,16 +1,18 @@
 
 # Introduction to Julia,
 
-
 **Location**:
-	Online
+	Nicolaus Copernicus Astronomical Center 
+ 	Bartycka 18, 00-716 Warszawa, Poland
+		
+The installation instructions can be found <a href="1_Basics/">Here!</a><br>.
 
 
 Data analysis has become one of the core processes in virtually any professional activity. The collection of data becomes easier and less expensive, so we have ample access to it.
 
 The Julia language, which was designed to address the typical challenges that data scientists face when using other tools. Julia is like Python, in that it supports an efficient and convenient development process. At the same time, programs developed in Julia have performance comparable to C.
 
-During this 2 day boot camp, you will learn how to build data science models using Julia. Moreover, we will teach you how to scale your computations beyond a single computer.
+During this workshop, you will learn how to build data science models using Julia. Moreover, we will teach you how to scale your computations beyond a single computer.
 
 This course does not require the participants to have prior detailed knowledge of advanced machine learning algorithms nor the Julia programming language. What we assume is a basic knowledge of data science tools (like Python or R) and techniques (like linear regression, basic statistics, plotting).
 
