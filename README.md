@@ -60,4 +60,39 @@ This course does not require the participants to have prior detailed knowledge o
 </ul>
 </td><td>&nbsp;</td></tr>
 
+
+
+<tr><td>&nbsp;</td><td><a href="5_Virtual_Envs/">5 Virtual environments and packages</a><br>
+<ul>
+<li> Managing virtual environments
+<li> Creating packages
+<li> Unit testing
+</ul>
+</td><td>&nbsp;</td></tr>
+
+
+<tr><td>&nbsp;</td><td><a href="6_Performance/">6 Optimizing code for numerical performance</a><br>
+<ul>
+<li> Benchmarking Julia code
+<li> Type stability
+<li> Performance pitfalls
+</ul>
+</td><td>&nbsp;</td></tr>
+
+
+
+<tr><td>&nbsp;</td><td><a href="7_Scaling out/">7_Scaling out computations and distribited computing</a><br>
+<ul>
+<li> SIMD
+<li> Green threads
+<li> Multithreading
+<li> Multiprocesing
+<li> Distributed computing
+</ul>
+</td><td>&nbsp;</td></tr>
+
+
+
+
+
 </table>
