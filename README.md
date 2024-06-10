@@ -1,7 +1,9 @@
 
-# Introduction to Julia,
+# Introduction to Julia
 
-**Date**: April 25th, 2024
+**Date**: 
+  April 25th, 2024 (intro, data manipulation)
+  June 13th, 2024 (virtual environments and scaling computations)
 
 **Location**:
 	Nicolaus Copernicus Astronomical Center<br>
